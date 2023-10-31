@@ -4,7 +4,7 @@ import numpy as np
 
 # %%
 def exponential_distribution(lambda_, n):
-    return np.random.exponential(scale=lambda_, size=n)
+    return np.random.exponential(scale=1 / lambda_, size=n)
 
 
 # %%
