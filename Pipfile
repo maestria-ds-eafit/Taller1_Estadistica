@@ -11,6 +11,9 @@ matplotlib = "*"
 plotly = "*"
 nbformat = "*"
 scipy = "*"
+scikit-learn = "*"
+seaborn = "*"
+statsmodels = "*"
 
 [dev-packages]
 
