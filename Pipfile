@@ -11,6 +11,8 @@ matplotlib = "*"
 plotly = "*"
 nbformat = "*"
 scipy = "*"
+islp = "*"
+statsmodels = "*"
 
 [dev-packages]
 
