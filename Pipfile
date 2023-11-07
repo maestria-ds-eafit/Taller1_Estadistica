@@ -15,6 +15,7 @@ scikit-learn = "*"
 seaborn = "*"
 statsmodels = "*"
 nbconvert = "*"
+pandoc = "*"
 
 [dev-packages]
 
