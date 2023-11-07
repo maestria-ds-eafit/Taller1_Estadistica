@@ -15,6 +15,7 @@ islp = "*"
 scikit-learn = "*"
 seaborn = "*"
 statsmodels = "*"
+nbconvert = "*"
 
 [dev-packages]
 
